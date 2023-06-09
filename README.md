@@ -1,5 +1,5 @@
 # react-redis-mysql-express
-1.Download docker
+1.Download docker.
 2.run these command
  ----docker pull redis
  ----docker run -d -p 6379:6379 --name redis-container redis
