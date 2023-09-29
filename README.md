@@ -9,7 +9,7 @@
  
  ----docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
  
-2. After that enter into mysql container by this command
+ 2. After that enter into mysql container by this command
  
  ----docker exec -it mysql-container mysql -uroot -p
  
